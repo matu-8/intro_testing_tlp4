@@ -21,3 +21,6 @@ Modificá **solo** `src/services/precios.ts`. Antes de realizar la operación, i
 ---
 ### Consigna de integracion
 **Desarrollo**: Realizado en el directorio correspondiente.
+---
+### Consigna de API
+**Desarrollo**: Realizado en el directorio correspondiente.
